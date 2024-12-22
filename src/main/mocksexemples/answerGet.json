@@ -1,0 +1,7 @@
+{
+    "Person1": {
+        "name": "%s",
+        "surname": "%s",
+        "age": %d
+    }
+}
